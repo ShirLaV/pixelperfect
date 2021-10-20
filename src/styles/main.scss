@@ -1,0 +1,19 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/typography.scss";
+// Basics
+@import "basics/helpers.scss";
+@import "basics/layout.scss";
+@import "basics/base.scss";
+@import "basics/buttons.scss";
+//pages
+@import "pages/home-page.scss";
+// Components
+@import "components/hero-container.scss";
+@import "components/skills-container.scss";
+@import "components/recommendation-container.scss";
+@import "components/call-to-action-section.scss";
+@import "components/hero-container/header.scss";
+@import "components/hero-container/hero.scss";
+@import "components/recommendation-container/recomment-list.scss";
+@import "components/recommendation-container/recomment-preview.scss";

@@ -1,0 +1,44 @@
+.recomment-preview {
+    position: relative;
+    .quotes {
+        position: absolute;
+        width: 67px;
+        height: 56px;
+    }
+    .recomment-data {
+        z-index: 1;
+        p {
+            &.role {
+                margin-top: 2px;
+                font-size: 13px;
+                font-weight: 500;
+                line-height: 18px;
+                font-family: Livvic medium-italic;
+            }
+            &.txt {
+                height: 97px;
+                width: 350px;
+                font-size: 15px;
+                font-weight: 600;
+                line-height: 25px;
+                text-align: center;
+                margin-top: 36px;
+            }
+        }
+        h3 {
+            color: $clr5;
+            margin-top: 27px;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 28px;
+        }
+        img {
+            margin-top: 32px;
+            width: 62px;
+            height: 62px;
+            border: 2px solid $clr5;
+            border-radius: 50%;
+            margin-bottom: 151px;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.recommendation-container {
+    background-color: $clr3;
+    h1 {
+        font-size: 48px;
+        text-align: center;
+        line-height: 48px;
+        font-weight: 700;
+        height: 100px;
+        width: 932px;
+        margin-top: 140px;
+        margin-bottom: 52px;
+        justify-self: center;
+        span {
+            color: $clr5;
+        }
+    }
+}

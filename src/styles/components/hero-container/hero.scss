@@ -1,0 +1,22 @@
+.hero {
+    margin-top: 139px;
+    h1 {
+        font-size: 100px;
+        line-height: 100px;
+        span {
+            color: $clr4;
+        }
+    }
+    p {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        max-width: 46ch;
+    }
+    img {
+        width: 335px;
+        height: 100px;
+        align-self: end;
+        margin-top: 158px;
+    }
+}

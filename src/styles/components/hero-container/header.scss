@@ -1,0 +1,18 @@
+.home-header {
+    font-weight: 600;
+    margin-top: 77px;
+    .logo {
+        // height: 40px;
+        // width: 160px;
+        font-size: 35px;
+        margin-inline-end: 80px;
+    }
+    nav {
+        a {
+            font-size: 18px;
+            &:first-child {
+                margin-inline-end: 40px;
+            }
+        }
+    }
+}

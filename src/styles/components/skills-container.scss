@@ -1,0 +1,35 @@
+.skills-container {
+    background-color: $clr2;
+    .skills-content {
+        gap: 141px;
+        margin-top: 198px;
+        margin-bottom: 143px;
+        h1 {
+            font-size: 48px;
+            font-weight: 700;
+            line-height: 48px;
+            width: 445px;
+        }
+        .skill-list {
+            width: 510px;
+            gap: 35px;
+            .skill-preview {
+                gap: 23px;
+                img {
+                    width: 72px;
+                    height: 72px;
+                }
+                .skill-data {
+                    h2 {
+                        color: $clr4;
+                        width: 445px;
+                        height: 28px;
+                        font-size: 18px;
+                        font-weight: 700;
+                        line-height: 28px;
+                    }
+                }
+            }
+        }
+    }
+}

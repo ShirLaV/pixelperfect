@@ -1,0 +1,26 @@
+.call-to-action-section {
+    background-color: $clr4;
+    height: 200px;
+    color: $clr2;
+    position: relative;
+    img {
+        position: absolute;
+        width: 200;
+        height: 100;
+        bottom: 0;
+        left: 0;
+    }
+    .call-to-action-wrapper {
+        height: 100%;
+        .call-to-action-content {
+            height: 100%;
+            h1 {
+                width: 504px;
+                height: 53px;
+                font-size: 48px;
+                font-weight: 700;
+                line-height: 48px;
+            }
+        }
+    }
+}
