@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/pixelperfect/static/css/main.3eba20c0.chunk.css",
+    "main.js": "/pixelperfect/static/js/main.7559be06.chunk.js",
+    "main.js.map": "/pixelperfect/static/js/main.7559be06.chunk.js.map",
+    "runtime-main.js": "/pixelperfect/static/js/runtime-main.7029b7b9.js",
+    "runtime-main.js.map": "/pixelperfect/static/js/runtime-main.7029b7b9.js.map",
+    "static/js/2.03437bcf.chunk.js": "/pixelperfect/static/js/2.03437bcf.chunk.js",
+    "static/js/2.03437bcf.chunk.js.map": "/pixelperfect/static/js/2.03437bcf.chunk.js.map",
+    "static/js/3.88eae9f0.chunk.js": "/pixelperfect/static/js/3.88eae9f0.chunk.js",
+    "static/js/3.88eae9f0.chunk.js.map": "/pixelperfect/static/js/3.88eae9f0.chunk.js.map",
+    "index.html": "/pixelperfect/index.html",
+    "static/css/main.3eba20c0.chunk.css.map": "/pixelperfect/static/css/main.3eba20c0.chunk.css.map",
+    "static/js/2.03437bcf.chunk.js.LICENSE.txt": "/pixelperfect/static/js/2.03437bcf.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/pixelperfect/static/media/Livvic-SemiBold.f5f72371.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/pixelperfect/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/pixelperfect/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/pixelperfect/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/bg-pattern-home-2.889d5d8c.svg": "/pixelperfect/static/media/bg-pattern-home-2.889d5d8c.svg",
+    "static/media/bg-pattern-home-6-about-5.d6ab17f2.svg": "/pixelperfect/static/media/bg-pattern-home-6-about-5.d6ab17f2.svg",
+    "static/media/icon-chart.8de3d4d2.svg": "/pixelperfect/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-cog.c5d2403f.svg": "/pixelperfect/static/media/icon-cog.c5d2403f.svg",
+    "static/media/icon-person.0a313a85.svg": "/pixelperfect/static/media/icon-person.0a313a85.svg",
+    "static/media/icon-quotes.c5173921.svg": "/pixelperfect/static/media/icon-quotes.c5173921.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7029b7b9.js",
+    "static/js/2.03437bcf.chunk.js",
+    "static/css/main.3eba20c0.chunk.css",
+    "static/js/main.7559be06.chunk.js"
+  ]
+}
